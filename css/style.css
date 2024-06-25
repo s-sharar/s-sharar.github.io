@@ -32,15 +32,15 @@ html {
 }
 
 .typing {
-  color: #ffb400;
+  color: #708090;
 }
 
 .projects-link {
-  color: #ffb400;
+  color: #708090;
 }
 
 .projects-link:hover {
-  color: #ffb400;
+  color: #708090;
 }
 
 @media (min-width: 577px) and (max-width: 987px) and (min-height: 364px) and (max-height: 578px) {
