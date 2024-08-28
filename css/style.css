@@ -575,6 +575,15 @@ hr.separator {
   border-radius: 10px;
 }
 
+/* change */
+
+@media(max-width: 1000px) {
+  .portfolio .project {
+    width: 90%;
+    height: auto;
+  }
+}
+
 .portfolio .project > a {
   margin-bottom: 10px;
 }
@@ -1138,6 +1147,7 @@ hr.separator {
     margin-right: 3px;
   }
 }
+
 
 @media (max-width: 350px) {
   .socials ul li {
